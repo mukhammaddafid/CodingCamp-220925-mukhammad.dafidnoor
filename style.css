@@ -1,0 +1,14 @@
+.logo{
+    height: 75px;
+    background-color: lightslategray
+    width: 75px;
+    border-radius: 50%;
+    backgound-image: url{https://www.freepik.com/free-vector/futuristic-hexagonal-net-background_4332362.htm#fromView=search&page=1&position=18&uuid=40956e39-5bde-4066-bff0-8524ff2efa18&query=hexagon+cyber}
+    backgound-size: cover;
+    backgound-position: center;
+}
+
+.main-nav{
+    display: fiex;
+    justify-content: futuristic-hexagon;
+}
