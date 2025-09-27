@@ -14,25 +14,25 @@ Mini Project 22-09-2025
 
   * Profile
 
-      See on you bio
+      see on you bio
  
   * Portofolio
 
-      Activity and Project
+      activity and Project
 
   * Message 
 
-      Contact and Feedback
+      contact and Feedback
 
 *" Main frame "* 
 
   * Home
 
-      Welcome Message
+     ' Welcome Message '
 
   * Profile
 
-      Bio you life and background 
+      Bio your life and background 
 
   * Portofolio
 
